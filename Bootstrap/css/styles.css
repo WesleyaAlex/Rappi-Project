@@ -1,0 +1,24 @@
+#entrar{
+    background-color: #ff441f;
+    border-radius: 10px;
+    font-family: Poppins-SemiBold,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    width: 130px;
+    border: solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#inscrever{
+    background-color: #0cc665;
+    font-family: Poppins-SemiBold,sans-serif;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 600;
+    border: solid;
+    width: 190px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
