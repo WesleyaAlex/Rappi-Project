@@ -1,0 +1,33 @@
+#buscar{
+    width: 120px;
+    height: 48px;
+    border: 2px;
+    border-radius: 15px;
+    background-color: #0cc665;
+    margin-left: 24px;
+    cursor: pointer;
+    font-family: Poppins-SemiBold,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff
+}
+
+#links{
+    font-family: Poppins-SemiBold,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #332927;
+    margin: 5px 25px;
+    text-decoration: none;
+    opacity: .4;
+    margin-right: 6px;
+}
+
