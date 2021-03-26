@@ -1,4 +1,4 @@
-#entrar{
+.entrar{
     background-color: #ff441f;
     border-radius: 10px;
     font-family: Poppins-SemiBold,sans-serif;
@@ -21,4 +21,14 @@
     width: 190px;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+
+.div1{
+    background: #FF6A6A;
+}
+
+#h1-links{
+    color: white;
+    text-decoration: none;
 }
