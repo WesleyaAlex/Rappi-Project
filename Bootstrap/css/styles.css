@@ -117,3 +117,39 @@
     width: 45px;
     height: 45px;
 }
+
+#section #buscar{
+    width: 120px;
+    height: 48px;
+    border: 2px;
+    border-radius: 15px;
+    background-color: #0cc665;
+    margin-left: 24px;
+    cursor: pointer;
+    font-family: Poppins-SemiBold,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff
+}
+
+#section #links{
+    font-family: Poppins-SemiBold,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #332927;
+    margin: 5px 25px;
+    text-decoration: none;
+    opacity: .4;
+    margin-right: 6px;
+}
+
+#section #address{
+
+    background: #f8f8f8 url(/icons/location.svg) no-repeat scroll 23px;
+    width: 451px;
+    height: 28px;
+    border-radius: 15px;
+    border: 2px;
+    padding: 10px 0 11px 54px;
+    margin-bottom: 5px;
+}
