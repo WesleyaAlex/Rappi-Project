@@ -153,3 +153,28 @@
     padding: 10px 0 11px 54px;
     margin-bottom: 5px;
 }
+
+#section4 h1{
+    font-family: Poppins-SemiBold,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #332927;
+}
+
+#section4 h4{
+    font-family: Poppins-Regular,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #706967;
+}
+
+#section4 #tente{
+    background-color: #0cc665;
+    font-family: Poppins-SemiBold,sans-serif;
+    font-size: 13px;
+    border-radius: 17px;
+    color: #fff;
+    border: solid;
+    width: 170px;
+    height: 55px;
+}
