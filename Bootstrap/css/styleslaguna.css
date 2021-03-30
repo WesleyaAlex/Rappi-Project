@@ -1,4 +1,4 @@
-#buscar{
+#section #buscar{
     width: 120px;
     height: 48px;
     border: 2px;
@@ -11,7 +11,7 @@
     color: #fff
 }
 
-#titulo{
+#section #titulo{
     font-family: Poppins-SemiBold,sans-serif;
     font-size: 32px;
     font-weight: 600;
@@ -23,7 +23,7 @@
     text-align: center;
 }
 
-#link3{
+#section #link3{
     font-family: Poppins-SemiBold,sans-serif;
     font-size: 15px;
     font-weight: 600;
@@ -33,13 +33,11 @@
     margin-right: 6px;
 }
 
-#address{
-
+#section #address{
     background: #f8f8f8 url(/icons/location.svg) no-repeat scroll 23px;
     width: 400px;
     height: 45px;
     border-radius: 15px;
     border: 2px;
     padding: 10px 0 11px 54px;
-
 }
