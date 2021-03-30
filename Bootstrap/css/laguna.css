@@ -1,0 +1,24 @@
+
+#text{
+    font-family: Poppins-Regular,sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    color: #706967;
+}
+
+#titulo{
+    font-family: Poppins-SemiBold,sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.15;
+    letter-spacing: -1.88px;
+    color: #332927;
+}
+
+.fundo{
+    background-color: #f8f7f7;
+}
